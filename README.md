@@ -47,4 +47,4 @@
 
 ## Merge Conflict Resolution Screenshot
 
-![Merge Conflict Screenshot](merge-conflict-screenshot.png)
+![Merge Conflict Screenshot](conflicts-image.jpg)
